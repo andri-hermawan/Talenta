@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "dbMysql": {
+    "host": "localhost",
+    "port": 0,
+    "url": "",
+    "database": "talenta",
+    "password": "toor",
+    "name": "dbMysql",
+    "user": "root",
+    "connector": "mysql"
+  }
+}

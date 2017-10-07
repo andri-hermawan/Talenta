@@ -1,0 +1,29 @@
+{
+  "name": "userss",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "images": {
+      "type": "string"
+    },
+    "employeesName": {
+      "type": "string"
+    },
+    "jobPositions": {
+      "type": "string"
+    },
+    "signUp": {
+      "type": "date"
+    },
+    "totalCourse": {
+      "type": "number"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
